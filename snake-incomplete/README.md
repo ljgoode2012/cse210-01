@@ -33,4 +33,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* TODO: Add your name and email here
+Lindsey Goode ljgoode2012@gmail.com

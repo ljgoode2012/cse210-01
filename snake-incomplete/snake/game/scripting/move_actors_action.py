@@ -2,7 +2,7 @@ from game.scripting.action import Action
 
 
 # TODO: Implement MoveActorsAction class here!
-class MoveActorsAction():
+class MoveActorsAction(Action):
 
 # Override the execute(cast, script) method as follows:
     def execute(self, cast, script):
